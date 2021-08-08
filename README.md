@@ -1,4 +1,4 @@
-## CSC615 Group Term Project
+## self-driving-car
 
 ## Documentation: https://drive.google.com/file/d/1eapBSEoN1Z0PoiNNOqIbhd1znlBn6Igq/view
 
